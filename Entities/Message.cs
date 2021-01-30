@@ -8,7 +8,7 @@ namespace Ask.Entities
 {
     class Message
     {
-        public static string Reject = "Siye";
-        public static string Resolve = "Gel";
+        public static string Reject = "Geçeriz kullanıcı!";
+        public static string Resolve = "Geçerli kullanıcı.";
     }
 }

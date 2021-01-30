@@ -30,7 +30,6 @@ namespace Ask.Concrete
             {
                 players.Add(player);
             }
-
         }
 
         public void List()
